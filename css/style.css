@@ -21,7 +21,7 @@ pre { margin-top: 7px; }
 pre code { font-family: 'IBM Plex Mono' !important; }
 
 /* hamburger menu */
-.hamburger-wrap { display: flex; flex-wrap: wrap; font-family: 'Montserrat'; margin-top: 75px; margin-left: auto; margin-right: auto; border-top: 1px solid #ddd; border-left: 1px solid #ddd; }
+.hamburger-wrap { display: flex; flex-wrap: wrap; font-family: 'Montserrat'; margin-top: 25px; margin-left: auto; margin-right: auto; border-top: 1px solid #ddd; border-left: 1px solid #ddd; }
 .hamburger-wrap section { width: 33.3333%; height: 250px; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; box-sizing: border-box; position: relative; }
 .hamburger-wrap section > p { position: absolute; top: 0; left: 0; width: 40px; line-height: 24px; height: 24px; color: #fff; background-color: #276ff7; text-align: center; font-size: 14px; font-weight: 500; }
 
